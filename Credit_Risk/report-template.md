@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-The analysis described in this report describes the machine learning techniques used to meet the challenge, the results obtained, and the conclusions drawn based on the findings. 
+The analysis in this report describes the machine learning techniques used to meet the challenge, the results obtained and the conclusions drawn, based on the findings. 
 
 Purpose:
 The purpose of the challenge was to evaluate machine learning models on loan risk. The starting point for the analysis was the resource dataset that contained historical lending activity from a peer to peer lending services company. The aim was to build a model that can identify the creditworthiness of borrowers. 
