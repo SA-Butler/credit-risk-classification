@@ -36,6 +36,6 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 ## Summary
 
-As can be seen from the resuilts above, the Machine Learning Model 2 gives the better perfromance of the two investigated. The summary statistics produced in the study describe this, with improved values nearer to one obtained with the model2 application. The performance of the model is required to predict more accurately the high-risk loans as it is these that require further management (i.e. loan refused or restrucutred). Model 2 shows the benefits of having a more balanced number of data for the 2 conditions rather than the biased number in Model 1.
+As can be seen from the resuilts above, the Machine Learning Model 2 gives the better perfromance of the two investigated. The summary statistics produced in the study describe this, with improved values nearer to one obtained with the model2 application. The performance of any model is required to predict more accurately the high-risk loans as it is these that require further management (i.e. loan refused or restrucutred). Model 2 shows the benefits of having a more balanced number of data points for the 2 conditions rather than the biased number in Model 1.
 Therefore Model 2 would be the recommended Model to the lending services company.  
 
